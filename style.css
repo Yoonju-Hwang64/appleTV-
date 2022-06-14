@@ -24,7 +24,7 @@ header{
 .hero{
     margin-top: 28px;
     height: 944px;
-    background-image: url("/images/hero_img.png");
+    background-image: url("hero_img.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -89,7 +89,7 @@ main{
 }
 
 .banner1{
-    background-image: url("/images/banner1_img.png");
+    background-image: url("banner1_img.png");
     height: 516px;
     background-repeat: no-repeat;
     background-size: cover;
